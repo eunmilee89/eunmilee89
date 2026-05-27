@@ -18,7 +18,7 @@ jobs:
       - name: Pull in Velog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://v2.velog.io/rss/@eunoa0235"
+          feed_list: "https://v2.velog.io/rss/@eunoia0235"
           max_post_count: 5
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
