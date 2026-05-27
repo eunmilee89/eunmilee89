@@ -69,13 +69,7 @@
 
 
 <div align="center">
-<!-- BLOG-POST-LIST:START -->
-- [캡처링과 버블링&lpar;Capturing and Bubbling&rpar;](https://velog.io/@eunoia0235/%EC%BA%A1%EC%B2%98%EB%A7%81%EA%B3%BC-%EB%B2%84%EB%B8%94%EB%A7%81Capturing-and-Bubbling)
-- [[BFE.dev] 2단 레이아웃](https://velog.io/@eunoia0235/BFE.dev-2%EB%8B%A8-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)
-- [[BFE.dev] useRef II](https://velog.io/@eunoia0235/BFE.dev-useRef-II)
-- [[BFE.dev] 텍스트 여러 줄로 줄이기](https://velog.io/@eunoia0235/BFE.dev-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%AC%EB%9F%AC-%EC%A4%84%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
-- [[BFE.dev] 텍스트 한 줄로 줄이기](https://velog.io/@eunoia0235/BFE.dev-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href='https://velog.io/@eunoia0235/%EC%BA%A1%EC%B2%98%EB%A7%81%EA%B3%BC-%EB%B2%84%EB%B8%94%EB%A7%81Capturing-and-Bubbling'>캡처링과 버블링&lpar;Capturing and Bubbling&rpar;</a><br/><a href='https://velog.io/@eunoia0235/BFE.dev-2%EB%8B%A8-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83'>[BFE.dev] 2단 레이아웃</a><br/><a href='https://velog.io/@eunoia0235/BFE.dev-useRef-II'>[BFE.dev] useRef II</a><br/><a href='https://velog.io/@eunoia0235/BFE.dev-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%AC%EB%9F%AC-%EC%A4%84%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0'>[BFE.dev] 텍스트 여러 줄로 줄이기</a><br/><a href='https://velog.io/@eunoia0235/BFE.dev-%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0'>[BFE.dev] 텍스트 한 줄로 줄이기</a><br/><!-- BLOG-POST-LIST:END -->
 </div> 
 <br>
 
