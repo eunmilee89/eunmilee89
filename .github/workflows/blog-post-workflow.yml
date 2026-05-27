@@ -1,19 +1,24 @@
 name: Latest Velog Posts
- 
+
 on:
   schedule:
     - cron: '0 0 * * *'   
-  workflow_dispatch:      
- 
+  workflow_dispatch:        
+
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update README with latest Velog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Velog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://api.velog.io/rss/@eunoa0235"
+          feed_list: "https://v2.velog.io/rss/@eunoa0235"
           max_post_count: 5
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
