@@ -81,8 +81,8 @@
 |:---:|:---:|:---:|:---:|
 | [🎬 TasteBox](https://github.com/StepUp2025/TasteBox-Frontend) | 영화·TV 콘텐츠 추천 서비스 (팀) | React · TypeScript · Zustand · styled-components | TMDB API 사용 |
 | [📚 Book Store](https://github.com/eunmilee89/prgms-book-store-frontend) | 온라인 서점 풀스택 (개인) | React · TypeScript · TanStack Query · Node.js | Firebase 사용 |
-| [✅ Today-log](https://github.com/eunmilee89/todo-list-app) | 투두리스트 앱 (개인) | React · TypeScript | LocalStorage 사용 | 
-| [▶️ Youtube](https://github.com/eunmilee89/Youtube) | 유튜브 클론 코딩 (개인) | React · TypeScript · TanStack Query | Youtube API 사용 |
+| [✅ Today-log](https://github.com/eunmilee89/todo-list-app) | 투두리스트 앱 (개인) | React · TypeScript · CSS Module | LocalStorage 사용 | 
+| [▶️ Youtube](https://github.com/eunmilee89/Youtube) | 유튜브 클론 코딩 (개인) | React · TypeScript · TanStack Query· tailwindcss | Youtube API 사용 |
 | [👕 Moment Pick](미정) | 쇼핑몰 앱 (개인) | React · TypeScript · Motion | Firebase(realtime database) + cloudinary 사용 |
 | [📷 Instagram](미정) | 인스타그램 클론 코딩 (개인) | React · TypeScript | Web Socket 구현 |
 
